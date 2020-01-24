@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+
+Just a girl trying to do good in the world. 
